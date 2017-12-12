@@ -1,0 +1,49 @@
+body{
+  background: #9900FF;
+  font-family: Berkshire Swash;
+}
+.titleOne {
+  font-size:70px;
+  margin-bottom: 23px;
+}
+.titleDos{
+  font-size: 45px;
+}
+.ContainerProyectoUX{
+text-align: center;
+}
+.ContainerIU{
+  background: #dd11d0;
+}
+.ContainerPropuestasLaboratoria{
+  background: #5397c1;
+  text-align: center;
+}
+.Trabajo{
+  text-align: center;
+  font-size: 50px;
+  color: #5a0666;
+}
+.TITLE{
+  text-align: center;
+  margin-bottom: 63px;
+}
+.ContainerParraf{
+  width: 70%;
+  margin-left: 17%;
+}
+.parrafs{
+  text-align: justify;
+}
+.imagen2{
+  width: 40%;
+  height: 400px;
+}
+.imagen3{
+  width:90%;
+  height: 216px;
+}
+.imagen4 {
+  width: 107%;
+  height: 195px;
+}
